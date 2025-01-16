@@ -104,6 +104,13 @@ aside.blank2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.pad75color {
+    padding: 75px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+
 .pad50 {
     padding: 50px;
 }

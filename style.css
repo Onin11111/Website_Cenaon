@@ -94,9 +94,9 @@ aside.blank2 {
     float: left;
 }
 
-
 .pad100 {
     padding: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .pad75 {
@@ -109,7 +109,6 @@ aside.blank2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
 }
-
 
 .pad50 {
     padding: 50px;
@@ -124,11 +123,23 @@ aside.blank2 {
     margin-top: 100px;
 }
 
-
 img.OninPic {
     width: 200px;
     height: 200px;
     border-radius: 50%;
+}
+
+.Onin1x1 {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+img.JavaCertificate {
+    text-align: center;
+    width: 900px;
+    height: auto;
 }
 
 .LifeRPG_sneakpeek {
@@ -136,15 +147,19 @@ img.OninPic {
     height: auto;
 }
 
-.content {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    border-radius: 8px;
+.top1 {
+    margin-top: -125px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 75px;
+    vertical-align: top;
+    line-height: 1;
 }
 
-.top1 {
-    margin-top: -5px;
+.top2 {
+    padding: 75px;
+    margin-top: -125px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 75px;
     vertical-align: top;
     line-height: 1;
 }
@@ -153,13 +168,13 @@ img.OninPic {
     text-align: center;
     margin-top: 50px;
     color: white;
-    font-family: Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .circle {
     display: inline-block;
-    width: 80px;
-    height: 80px;
+    width: 200px;
+    height: 200px;
     line-height: 80px;
     border: 2px solid white;
     border-radius: 50%;
@@ -175,7 +190,6 @@ img.OninPic {
     border-top: 20px solid white;
     margin: 0 auto 10px auto;
 }
-
 
 .cta-button {
     display: inline-block;
